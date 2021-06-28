@@ -1,0 +1,47 @@
+/* Color Style */
+.to_checkout .text-danger {
+    color: #DC3545;
+}
+
+.to_checkout .text-primary {
+    color: #007BFF;
+}
+
+.to_checkout .text-success {
+    color: #28A745;
+}
+
+.to_checkout .text-warning {
+    color: #c1950f;
+}
+
+.to_checkout .text-muted {
+    color: #6d6d6d;
+}
+
+/* Dashicon logo */
+.to_checkout span.dashicons-randomize {
+    font-size: 25px;
+    margin-right: 5px;
+    vertical-align: -4px;
+}
+
+/* add cursor */
+.to_checkout .cursor-pointer {
+    cursor: pointer;
+}
+
+/* Top Content wp list table */
+.wlt-top-content {
+    width: 95.5%;
+    min-height: 150px;
+    margin: 25px 10px;
+    background: #fff;
+    border-radius: 10px;
+    padding: 20px;
+}
+/* Search Box */
+#wp2_search_shortcode_id-search-input,
+#search-submit {
+    /* margin-top: 20px; */
+}
