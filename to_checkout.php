@@ -1,11 +1,11 @@
 <?php
 /**
- * Plugin Name: To Checkout
- * Description: A Plugin For starter Wordpress
- * Plugin URI:  https://site.com
+ * Plugin Name: Wp To Checkout
+ * Description: A plugin to add checkout button or custom buttons to wordpress website
+ * Plugin URI:  https://wordpress.org
  * Version:     1.0.0
- * Author:      Mehrshad Darzi
- * Author URI:  https://site.com
+ * Author:      Siddiq Umer
+ * Author URI:  https://github.com/hafizSiddiq7675
  * License:     MIT
  * Text Domain: wp-to-checkout
  * Domain Path: /languages
